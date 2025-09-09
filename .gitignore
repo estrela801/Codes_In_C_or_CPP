@@ -1,1 +1,26 @@
-calls.cpp 
+calls.cpp
+# Diretórios de build
+/build/
+/CMakeFiles/
+/cmake-build-*/
+
+# Arquivos de build
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+
+# Binários e executáveis
+*.exe
+*.out
+*.o
+*.obj
+/meu_projeto
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Configurações de IDE
+*.sublime-workspace
+.vscode/
