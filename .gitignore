@@ -1,0 +1,14 @@
+# Ignorar arquivos de build
+/build/
+/CMakeFiles/
+/Makefile
+/CMakeCache.txt
+/*.o
+/*.obj
+/*.exe
+/*.out
+/*.log
+*.a
+*.so
+*.dll
+*.dSYM/
