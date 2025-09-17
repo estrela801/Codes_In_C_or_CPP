@@ -1,3 +1,9 @@
 [submodule "Crow"]
 	path = Crow
 	url = https://github.com/CrowCpp/Crow.git
+[submodule "app/Crow"]
+	path = app/Crow
+	url = https://github.com/CrowCpp/Crow.git
+[submodule "app/asio"]
+	path = app/asio
+	url = https://github.com/chriskohlhoff/asio.git
