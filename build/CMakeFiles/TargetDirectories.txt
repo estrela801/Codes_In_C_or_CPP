@@ -1,0 +1,5 @@
+/workspaces/Codes_In_C_or_CPP/build/CMakeFiles/edit_cache.dir
+/workspaces/Codes_In_C_or_CPP/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Codes_In_C_or_CPP/build/app/CMakeFiles/app.dir
+/workspaces/Codes_In_C_or_CPP/build/app/CMakeFiles/edit_cache.dir
+/workspaces/Codes_In_C_or_CPP/build/app/CMakeFiles/rebuild_cache.dir
