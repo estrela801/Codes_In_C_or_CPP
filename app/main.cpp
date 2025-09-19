@@ -1,10 +1,12 @@
 #include <iostream>
 #include "calls.h" // chamando o arquivo de cabeçalho com as declarações
+#include "crow.h"
 using namespace std; 
 
-int main() {
-    cout << "GitHub Codespaces está funcionando com C++!" << std::endl;
-    Pessoa p("Rodrigo", 18); // passando as informações para o construtor
-    p.apresentar(); // chamando o método apresentar da classe Pessoa
+int main()
+{
+    crow::SimpleApp app;
+    setupMessages(app);
+    app.port(18080).multithreaded().run(); // iniciando o servidor na porta 18080
     return 0;
 }
